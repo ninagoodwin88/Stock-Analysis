@@ -8,15 +8,14 @@ Performing a stock analysis of several companies and comparing them based on rat
 
 The results of the analysis are that in 2017 all of the companies returned a profit except "TERP". The year 2018 only two companies yielded a profit and they were "ENPH" and "RUN".
 
-The refactored code for the years 2017 and 2018 ran roughly at .67 seconds each, while the original code for the referenced years above ran at roughly 1.9 seconds.
+The refactored code for the years 2017 and 2018 ran roughly at .07seconds each, while the original code for the referenced years above ran at roughly 1.9 seconds.
 
 [https://github.com/ninagoodwin88/Stock-Analysis/blob/main/VBA_Challenge_2017.png]
 
 [https://github.com/ninagoodwin88/Stock-Analysis/blob/main/VBA_Challenge_2018.png]
 
-[https://github.com/ninagoodwin88/Stock-Analysis/blob/main/VBA_Challenge_Original_Script_2017.png]
 
-[https://github.com/ninagoodwin88/Stock-Analysis/blob/main/VBA_Challenge_Original_Script_2018.png]
+
 
 ## Summary
 
